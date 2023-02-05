@@ -1,0 +1,115 @@
+.ant-btn-default {
+  visibility: hidden;
+}
+.ant-btn-primary {
+  visibility: hidden;
+}
+.buttn {
+  background-color: #0e1d38;
+  color: white;
+  padding: 6px;
+  border-radius: 8px;
+  padding-inline: 38px;
+  cursor: pointer;
+  border: none;
+  margin: 0px 191px;
+  border: none;
+}
+.buttn:hover {
+  opacity: 70%;
+}
+.ant-modal .ant-modal-content {
+  position: relative;
+  background-color: #1a4a75;
+  background-clip: padding-box;
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px 0 rgb(0 0 0 / 8%), 0 3px 6px -4px rgb(0 0 0 / 12%),
+    0 9px 28px 8px rgb(0 0 0 / 5%);
+  pointer-events: auto;
+  padding: 20px 24px;
+}
+.modal-title {
+  color: white;
+  border-bottom: black 3px solid;
+}
+.modal-navbar {
+  border-bottom: black solid 3px;
+  display: flex;
+  justify-content: center;
+  margin: 0 114px;
+}
+.navbar-title {
+  margin-bottom: 6px;
+  margin-top: 1.3em;
+  color: white;
+}
+.modal-forms {
+  margin-left: 114px;
+}
+.containerr {
+  margin-top: 2em;
+}
+.input-form {
+  width: 220px;
+  height: 20px;
+  border-radius: 7px;
+  border: none;
+  background-color: #0e1d38;
+  padding: 4px;
+  padding-inline: 13px;
+  color: white;
+}
+
+.form-label {
+  color: white;
+  margin-left: 3px;
+}
+.upload {
+  margin-left: 114px;
+  margin-top: 11px;
+}
+.upload-icon {
+  color: white;
+  margin-left: 104px;
+  font-size: 18px;
+  height: 36px;
+  display: block;
+  cursor: pointer;
+}
+.upload:hover {
+  opacity: 60%;
+}
+.msg {
+  color: white;
+  margin: 3px;
+  margin-left: 63px;
+  font-style: italic;
+  font-weight: 100;
+}
+input[type="number"].input-form::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.upload-text {
+  color: white;
+  margin: -16px 0px 16px 73px;
+}
+.uploaddd {
+  color: white;
+  margin-top: -29px;
+  margin-left: 110px;
+  margin-bottom: 7px;
+
+
+}
+.anticon svg {
+  display: inline-block;
+  width: 3em;
+  height: 26px;
+  margin-top: -2px;
+}
+.deletemodal{
+  width: 400px;
+}

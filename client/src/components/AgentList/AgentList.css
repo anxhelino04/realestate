@@ -1,0 +1,65 @@
+.agentCard {
+}
+
+.biggCard {
+  /* margin-right: 30px; */
+  border: 1px solid #1976d2;
+  min-width: 0em;
+  min-height: 35em;
+  max-height: 35em;
+}
+.container {
+  display: flex;
+  margin-block: 5em;
+  margin-inline: 5em;
+  gap: 15em;
+  /* max-height: 30em; */
+  /* justify-content: center; */
+}
+.fname {
+  margin: 0px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  max-height: 15px;
+  margin-bottom: 10px;
+}
+.content {
+  margin: 0px;
+  margin-bottom: 2px;
+  font-size: 10px;
+}
+.delete {
+  height: 1.2em;
+  width: 1.2em;
+  cursor: pointer;
+  padding: 0;
+  border: none;
+  background-color: white;
+  margin-right: 2px;
+}
+.img {
+  margin-top: -0.5px;
+  margin-left: -1px;
+  margin-right: 1.5em;
+}
+.bttns {
+  margin-left: auto;
+  margin-right: 2px;
+  margin-top: 4px;
+}
+.carddsc {
+  margin-top: 39px;
+  font-size: 19px;
+  color: #1976d2;
+}
+.carddscc {
+   color: #1976d2;
+}
+:where(.css-dev-only-do-not-override-k83k30).ant-card .ant-card-meta-detail >div:not(:last-child) {
+  margin-bottom: 8px;
+  margin-top: 1=2px;
+  font-weight: 800;
+  font-size: 20px;
+}

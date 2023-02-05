@@ -1,0 +1,38 @@
+.addbutton {
+  background-color: #1976d2;
+  color: white;
+  padding: 9px;
+  border-radius: 8px;
+  padding-inline: 18px;
+  cursor: pointer;
+  border: none;
+  margin-right: 65em;
+  margin-top: 0.6em;
+  position: relative;
+  font-size: 15px;
+}
+.addbutton:hover {
+  opacity: 50%;
+}
+.roleedit{
+  margin-left: 112px;
+  width: 17.7em;
+}
+:where(.css-dev-only-do-not-override-k83k30).ant-select:not(:where(.css-dev-only-do-not-override-k83k30).ant-select-customize-input) .ant-select-selector {
+  position: relative;
+  background-color: #0e1d38;
+  border: none;
+  transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+:where(.css-dev-only-do-not-override-k83k30).ant-select-single .ant-select-selector {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 14px;
+  line-height: 1.5714285714285714;
+  list-style: none;
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+  display: flex;
+  border-radius: 6px;
+}

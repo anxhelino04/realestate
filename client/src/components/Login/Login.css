@@ -1,0 +1,59 @@
+.login-form {
+    max-width: 300px;
+    margin-top: 3em;
+  }
+  .login-form-forgot {
+    float: right;
+  }
+  .login-form-button {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+  .login-form-button:hover {
+  opacity: 70%;
+  }
+  .background{
+    /* border-right: 2em solid black; */
+    border-radius: 2.2em;
+    /* padding-right: 4em; */
+  }
+  .line {
+    border-right: 3px solid lightslategray;
+    border-radius: 4em;
+    margin-block: 5px;
+}
+  .ant-input-affix-wrapper {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+    min-width: 0;
+    padding: 8px 36px;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    background-color: #ffffff;
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-radius: 6px;
+    transition: all 0.2s;
+    /* margin-bottom: 0px; */
+}
+.ant-btn-primary {
+  visibility: visible;
+}
+
+.ant-input-affix-wrapper .ant-input-prefix{
+  margin-left: -35px;
+}
+
+.small-description{
+margin-bottom: 10px;
+}
+:where(.css-dev-only-do-not-override-k83k30).ant-notification-notice .ant-notification-notice-with-icon .ant-notification-notice-message {
+  margin-bottom: 8px;
+  margin-inline-start: 36px;
+  font-size: 16px;
+  margin-left: 53px;
+}

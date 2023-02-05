@@ -1,0 +1,35 @@
+.registration-form-button {
+    width: 30%;
+}
+
+.register {
+    margin-top: 5.6em;
+    justify-content: center;
+    margin-inline: 24em;
+    background-color: #f4fdfa;
+    border: 0.1px #e4e4e4 solid;
+    padding: 56px;
+    padding-bottom: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.registerr {
+    margin-inline: 24em;
+    justify-content: center;
+    margin-top: 18px;
+    margin-bottom: 40px;
+    background-color: #f4fdfa;
+    border: 0.1px #e4e4e4 solid;
+    padding-top: 58px;
+    padding-bottom: 14px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.registerh1 {
+    margin-top: -35px;
+    margin-bottom: 20px;
+}
+.loginhref{
+cursor: pointer;
+color: #1976d2;
+}
